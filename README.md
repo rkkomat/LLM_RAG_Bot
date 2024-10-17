@@ -3,7 +3,7 @@
 This project implements an interactive conversational system that combines language models with document retrieval, specifically optimized for searching within CSV files. Users can input questions, and the system retrieves relevant answers from the provided data while maintaining a conversational context. The retrieval mechanism uses FAISS (Facebook AI Similarity Search) for fast and efficient document search, powered by OpenAI's language models to generate coherent and context-aware responses.
 
 ## Features
-
+ 
 ### Conversational Interface
 The app allows users to engage in a conversation-style interaction. Each question from the user builds upon previous exchanges, making the interaction more natural and context-aware.
 
